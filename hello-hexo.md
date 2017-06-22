@@ -10,12 +10,11 @@ categories: 技术
 **快速开始**
 ===
 
-欢迎来到此博客，下面我介绍下用到的技术：
+欢迎来到此博客，下面我介绍下搭建此博客涉及到的技术知识：
 
-- 基于nodejs语言的快速、便捷的轻量级框架[hexo](https://github.com/hexojs/hexo),star数接近了两万人数；
+- 博客是基于nodejs语言的轻量级框架[hexo](https://github.com/hexojs/hexo),star数接近了两万人数；
 - 需要安装nodejs的环境和git环境；
 - 需要注册[github](https://www.github.com)账号、密码；并且设置秘钥，这是基础的[git教程](http://www.liaoxuefeng.com/)
-
 - 使用hosts或者vpn进行翻墙，主要是为了方便使用github；
 - 需要取代记事本的文本编辑器，推荐[notepad++](https://notepad-plus-plus.org/)
 - 一个符合自己个性的[域名](https://sg.godaddy.com/zh/)(非必要的)
@@ -85,14 +84,11 @@ $ hexo new page "categories"
 ```
 ![图片名称](http://orwkfxzfh.bkt.clouddn.com/blog20170622235655.png)
 ```
-
 4. markdown[格式](http://www.appinn.com/markdown/)、和md文件编辑器，这里我推荐颜值很高的[vscode](https://code.visualstudio.com/)
 ，所见即所得的优秀编辑器。左边编写页，右边视图页。
 
-
 ![vscode编辑器](http://orwkfxzfh.bkt.clouddn.com/blog20170622235655.png)
 
-5. git的使用
 
 
 **三、博客备份**

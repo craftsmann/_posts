@@ -20,7 +20,7 @@ categories: 技术
 - 需要取代记事本的文本编辑器，推荐[notepad++](https://notepad-plus-plus.org/)
 - 一个符合自己个性的[域名](https://sg.godaddy.com/zh/)(非必要的)
 
-
+<!-- more -->
 以上就是应该准备的东西，下面我将此博客搭建完成的过程记录下来，涉及到三个方面：
 
 **一、安装工作**
